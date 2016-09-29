@@ -1,0 +1,70 @@
+[09-Sep-2016 14:01:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/itcadmin/public_html/authentication/application/controllers/Auth.php on line 127
+[09-Sep-2016 14:01:47 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/itcadmin/public_html/authentication/application/models/Model_users.php on line 52
+[10-Sep-2016 02:44:43 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/itcadmin/public_html/ugfcs/application/views/login.php on line 51
+[10-Sep-2016 02:53:36 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/itcadmin/public_html/ugfcs/application/views/login.php on line 66
+[10-Sep-2016 06:29:43 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/itcadmin/public_html/ugfcs/application/views/login.php on line 31
+[10-Sep-2016 07:38:30 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/controllers/Auth.php on line 105
+[10-Sep-2016 07:39:54 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/itcadmin/public_html/ugfcs/application/controllers/Auth.php on line 105
+[10-Sep-2016 07:44:18 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/itcadmin/public_html/ugfcs/application/controllers/Auth.php on line 30
+[10-Sep-2016 08:19:02 America/Chicago] PHP Fatal error:  Call to undefined function flashdata() in /home/itcadmin/public_html/ugfcs/application/views/success_email.php on line 8
+[10-Sep-2016 08:19:40 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/itcadmin/public_html/ugfcs/application/views/success_email.php on line 8
+[10-Sep-2016 10:08:53 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 4
+[10-Sep-2016 10:28:25 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/itcadmin/public_html/ugfcs/application/views/includes/user_header.php on line 33
+[10-Sep-2016 10:59:08 America/Chicago] PHP Parse error:  syntax error, unexpected ''is_logged_in'' (T_CONSTANT_ENCAPSED_STRING) in /home/itcadmin/public_html/ugfcs/application/views/includes/user_header.php on line 35
+[11-Sep-2016 03:30:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 13
+[11-Sep-2016 04:30:15 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 47
+[11-Sep-2016 04:30:51 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 47
+[11-Sep-2016 04:31:24 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 47
+[11-Sep-2016 05:12:14 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 17
+[11-Sep-2016 05:56:47 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/itcadmin/public_html/ugfcs/application/controllers/Auth.php on line 201
+[11-Sep-2016 14:11:03 America/Chicago] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 80
+[11-Sep-2016 14:11:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'false' (T_STRING) in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 86
+[11-Sep-2016 14:13:37 America/Chicago] PHP Fatal error:  Call to a member function affected_rows() on a non-object in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 83
+[11-Sep-2016 14:14:16 America/Chicago] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 83
+[11-Sep-2016 14:16:09 America/Chicago] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 83
+[11-Sep-2016 15:14:08 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/itcadmin/public_html/ugfcs/application/controllers/Auth.php on line 197
+[11-Sep-2016 15:19:46 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/itcadmin/public_html/ugfcs/application/controllers/Auth.php on line 197
+[11-Sep-2016 15:20:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/itcadmin/public_html/ugfcs/application/controllers/Auth.php on line 215
+[11-Sep-2016 16:10:06 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 96
+[13-Sep-2016 00:58:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'validation_errors' (T_STRING), expecting ',' or ';' in /home/itcadmin/public_html/ugfcs/application/views/login.php on line 12
+[13-Sep-2016 02:28:03 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 2
+[13-Sep-2016 02:28:23 America/Chicago] PHP Fatal error:  Class 'Auth' not found in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 4
+[13-Sep-2016 02:47:35 America/Chicago] PHP Fatal error:  Class 'MY_Auth' not found in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 4
+[13-Sep-2016 02:50:54 America/Chicago] PHP Fatal error:  Class 'MY_Auth' not found in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 4
+[13-Sep-2016 02:54:48 America/Chicago] PHP Fatal error:  Class 'MY_Auth' not found in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 4
+[14-Sep-2016 02:32:52 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 12
+[14-Sep-2016 02:34:22 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 12
+[14-Sep-2016 02:35:03 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 12
+[14-Sep-2016 02:37:40 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 13
+[14-Sep-2016 02:38:44 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 14
+[14-Sep-2016 02:48:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/dashboard_view.php on line 62
+[14-Sep-2016 06:01:30 America/Chicago] PHP Fatal error:  Class 'MY_Model' not found in /home/itcadmin/public_html/ugfcs/system/core/Common.php on line 196
+[14-Sep-2016 06:02:30 America/Chicago] PHP Fatal error:  Class 'MY_Model' not found in /home/itcadmin/public_html/ugfcs/system/core/Common.php on line 196
+[14-Sep-2016 06:10:44 America/Chicago] PHP Fatal error:  Class 'MY_Model' not found in /home/itcadmin/public_html/ugfcs/system/core/Common.php on line 196
+[14-Sep-2016 06:10:55 America/Chicago] PHP Fatal error:  Class 'MY_Model' not found in /home/itcadmin/public_html/ugfcs/system/core/Common.php on line 196
+[14-Sep-2016 06:11:21 America/Chicago] PHP Fatal error:  Class 'MY_Model' not found in /home/itcadmin/public_html/ugfcs/system/core/Common.php on line 196
+[14-Sep-2016 06:14:22 America/Chicago] PHP Fatal error:  Class 'MY_Model' not found in /home/itcadmin/public_html/ugfcs/system/core/Common.php on line 196
+[14-Sep-2016 06:15:29 America/Chicago] PHP Fatal error:  Class 'MY_Model' not found in /home/itcadmin/public_html/ugfcs/system/core/Common.php on line 196
+[14-Sep-2016 06:16:07 America/Chicago] PHP Fatal error:  Class 'MY_Model' not found in /home/itcadmin/public_html/ugfcs/system/core/Common.php on line 196
+[14-Sep-2016 06:18:30 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 105
+[14-Sep-2016 15:18:13 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 134
+[14-Sep-2016 15:18:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 134
+[14-Sep-2016 15:57:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 109
+[14-Sep-2016 16:02:41 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 113
+[14-Sep-2016 16:03:17 America/Chicago] PHP Fatal error:  Call to undefined function now() in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 113
+[14-Sep-2016 16:04:05 America/Chicago] PHP Fatal error:  Call to undefined function now() in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 113
+[14-Sep-2016 20:56:55 America/Chicago] PHP Fatal error:  Call to undefined method Model_users::get_deposit_list() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 41
+[14-Sep-2016 21:31:13 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 155
+[14-Sep-2016 21:32:49 America/Chicago] PHP Fatal error:  Call to undefined method Member::get_user_id() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 10
+[14-Sep-2016 21:34:14 America/Chicago] PHP Fatal error:  Call to undefined method Member::get_user_id() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 42
+[14-Sep-2016 21:35:38 America/Chicago] PHP Fatal error:  Call to undefined method Member::get_user_id() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 42
+[14-Sep-2016 21:46:19 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/itcadmin/public_html/ugfcs/application/views/dashboard/view_deposits.php on line 22
+[14-Sep-2016 21:52:30 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/itcadmin/public_html/ugfcs/application/views/dashboard/view_deposits.php on line 22
+[16-Sep-2016 09:14:13 America/Chicago] PHP Parse error:  syntax error, unexpected '">YES</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/itcadmin/public_html/ugfcs/application/views/dashboard/view_deposits.php on line 41
+[16-Sep-2016 10:01:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 150
+[16-Sep-2016 11:15:32 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::results() in /home/itcadmin/public_html/ugfcs/application/models/Model_users.php on line 162
+[24-Sep-2016 09:28:21 America/Chicago] PHP Fatal error:  Call to undefined method Model_users::get_member_data() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 333
+[24-Sep-2016 09:29:43 America/Chicago] PHP Fatal error:  Call to undefined method Model_users::get_member_data() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 333
+[24-Sep-2016 09:30:29 America/Chicago] PHP Fatal error:  Call to undefined method Model_users::get_member_data() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 333
+[24-Sep-2016 09:33:38 America/Chicago] PHP Fatal error:  Call to undefined method Model_users::get_member_data() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 333
+[24-Sep-2016 09:35:01 America/Chicago] PHP Fatal error:  Call to undefined method Model_users::member_data() in /home/itcadmin/public_html/ugfcs/application/controllers/Member.php on line 333

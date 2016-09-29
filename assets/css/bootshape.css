@@ -1,0 +1,31 @@
+body {
+    background-image:url('../img/bg.png');
+    background-repeat:repeat;
+}
+.navbar {
+    background-image:url('../img/bg.png');
+    background-repeat:repeat;
+}
+
+.navbar-brand {
+	margin-top: 0px;
+    padding: 0px 0;
+}
+
+.jumbotron {
+    background-color: transparent;
+    padding: 70px 0 0 0;
+}
+.green {
+    color: #4a2817;
+}
+.thumbs {
+    padding: 40px 0;
+}
+.thumbnail > img {
+    max-width: 60%;
+}
+.footer {
+    margin-top: 40px;
+    padding: 40px 0;
+}
